@@ -96,5 +96,10 @@ digital-bookshelf-api/
 
 
   
+##  Author
+
+- Haida Makouangou
+- Software Engineer | Per Scholas - MERN Stack
+  
 
 
