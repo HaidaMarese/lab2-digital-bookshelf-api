@@ -15,7 +15,7 @@ router.post("/", async (req, res) => {
   }
 });
 
-// Book review to user, auto update book ratings & averageRating
+// Book review to user, auto update book ratings and averageRating
 router.post("/:userId/reviews/:bookId", async (req, res) => {
   try {
     const { userId, bookId } = req.params;
