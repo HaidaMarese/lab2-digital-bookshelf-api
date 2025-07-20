@@ -34,7 +34,7 @@ const bookSchema = new Schema({
     default: true,
   },
 
-  // These are my optional fields
+  // My optional fields
   summary: {
     type: String,
     maxlength: 500,
